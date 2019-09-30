@@ -1,4 +1,4 @@
-https://travis-ci.org/bettermanzzy2/zip4j.svg?branch=master
+https://travis-ci.org/bettermanzzy2/zip4j.svg?branch=test_ci
 
 [![Build Status](https://travis-ci.org/srikanth-lingala/zip4j.svg?branch=master)](https://travis-ci.org/srikanth-lingala/zip4j)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.lingala.zip4j/zip4j/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.lingala.zip4j/zip4j)
