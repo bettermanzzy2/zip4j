@@ -2,3 +2,8 @@ language: java
 
 script:
   - travis_wait 30 mvn clean verify
+env:
+  global:
+    - CODECOV_TOKEN=:
+      after_success: 
+        - codecov -t
